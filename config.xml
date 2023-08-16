@@ -1,0 +1,29 @@
+<Config>
+<TimeZone>GMT Standard Time</TimeZone>
+<RemoveApps>
+</RemoveApps>
+<OneDriveSetup>https://go.microsoft.com/fwlink/?linkid=844652</OneDriveSetup>
+<AddFeatures>
+<!-- If you do add a language pack, make sure you add these language add-ons for each one.
+<Feature>Language.Basic~~~en-GB~0.0.1.0</Feature>
+<Feature>Language.Fonts.PanEuropeanSupplementalFonts~~~~0.0.1.0</Feature>
+<Feature>Language.Handwriting~~~en-GB~0.0.1.0</Feature>
+<Feature>Language.OCR~~~en-GB~0.0.1.0</Feature>
+<Feature>Language.Speech~~~en-GB~0.0.1.0</Feature>
+<Feature>Language.TextToSpeech~~~en-GB~0.0.1.0</Feature>
+    -->
+<Feature>NetFX3~~~~</Feature>
+</AddFeatures>
+<Language>Language.xml</Language>
+<!-- If you want to set a language, customize and reference this file: <Language>Language.xml</Language> -->
+<DefaultApps>Associations.xml</DefaultApps>
+<RegisteredOwner>Autopilot User</RegisteredOwner>
+<RegisteredOrganization>Contoso</RegisteredOrganization>
+<OEMInfo>
+<Manufacturer>NHS Wales</Manufacturer>
+<Logo>Contoso.bmp</Logo>
+<SupportPhone>+1 800-555-1212</SupportPhone>
+<SupportHours>8am-5pm PST</SupportHours>
+<SupportURL>http://www.contoso.com</SupportURL>
+</OEMInfo>
+</Config>
